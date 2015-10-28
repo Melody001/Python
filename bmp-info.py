@@ -14,7 +14,7 @@ print("bmp depth:" + str(bmp_depth))
 
 
 # reference
-#bmp的资料:
+# bmp resource
 #_http://blog.csdn.net/lanbing510/article/details/8176231 
 #_http://www.fastgraph.com/help/bmp_header_format.html
 # _https://docs.python.org/2/library/struct.html
