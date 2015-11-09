@@ -33,7 +33,7 @@ if(parameters==3):
 		print(Result)
 
 if(parameters>3):
-	print("Please input no Resultore than 3 parameters!")
+	print("Please input no more than 3 parameters!")
 	exit()
 
 
