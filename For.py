@@ -8,7 +8,7 @@ Result=0
 parameters=len(sys.argv)
 
 if(parameters<2):
-	print("Please input no less than 2 paraResulteters!")
+	print("Please input no less than 2 parameters!")
 	exit()
 
 n_char = sys.argv[1]
@@ -33,7 +33,7 @@ if(parameters==3):
 		print(Result)
 
 if(parameters>3):
-	print("Please input no Resultore than 3 paraResulteters!")
+	print("Please input no Resultore than 3 parameters!")
 	exit()
 
 
