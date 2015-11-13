@@ -6,7 +6,7 @@ try:
 	while 1:
 		line=f.readline()
 		if line:
-			print (line)
+			print (line,end="")
 		if not line:
 			break
 		pass
