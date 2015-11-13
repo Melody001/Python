@@ -1,8 +1,8 @@
 #!/usr/bin/python
-
+import sys
 
 try:
-    f = open('E:\shared\program\python\IO_test.txt', 'r')
+    f = open(str(sys.argv[1]), 'r')
     print(str(f.read()))
 finally:
     if f:
